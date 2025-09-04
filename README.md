@@ -1,5 +1,7 @@
 # Automated PL Real Estate Developer Website Checker
 
+![hippo](https://github.com/kamilstanuch/Automated-PL-Real-Estate-Developer-Website-Checker/blob/main/developer_watch_gif.gif)
+
 ## Project Context and Purpose
 
 Starting September 11, 2025, following new regulations effective from July 2025, real estate developers in Poland will be legally required to publicly display apartment prices on their websites. This project serves as an automated tool to monitor developers' compliance with these transparency requirements.
